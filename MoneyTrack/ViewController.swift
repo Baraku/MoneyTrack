@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         // testing Git integration in XCode
+        // second test to GitHub.com
     }
 
     override func didReceiveMemoryWarning() {
