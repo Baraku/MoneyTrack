@@ -15,6 +15,7 @@
 		0ADE19D21C31D4A700E95627 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0ADE19D01C31D4A700E95627 /* LaunchScreen.storyboard */; };
 		0ADE19DD1C31D4A700E95627 /* MoneyTrackTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ADE19DC1C31D4A700E95627 /* MoneyTrackTests.swift */; };
 		0ADE19E81C31D4A700E95627 /* MoneyTrackUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ADE19E71C31D4A700E95627 /* MoneyTrackUITests.swift */; };
+		0ADE19F61C31E0E300E95627 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 0ADE19F51C31E0E300E95627 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		0ADE19E31C31D4A700E95627 /* MoneyTrackUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MoneyTrackUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0ADE19E71C31D4A700E95627 /* MoneyTrackUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoneyTrackUITests.swift; sourceTree = "<group>"; };
 		0ADE19E91C31D4A700E95627 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0ADE19F51C31E0E300E95627 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		0ADE19B81C31D4A700E95627 = {
 			isa = PBXGroup;
 			children = (
+				0ADE19F51C31E0E300E95627 /* .gitignore */,
 				0ADE19C31C31D4A700E95627 /* MoneyTrack */,
 				0ADE19DB1C31D4A700E95627 /* MoneyTrackTests */,
 				0ADE19E61C31D4A700E95627 /* MoneyTrackUITests */,
@@ -235,6 +238,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0ADE19F61C31E0E300E95627 /* .gitignore in Resources */,
 				0ADE19D21C31D4A700E95627 /* LaunchScreen.storyboard in Resources */,
 				0ADE19CF1C31D4A700E95627 /* Assets.xcassets in Resources */,
 				0ADE19CA1C31D4A700E95627 /* Main.storyboard in Resources */,
@@ -489,6 +493,7 @@
 				0ADE19EE1C31D4A700E95627 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0ADE19EF1C31D4A700E95627 /* Build configuration list for PBXNativeTarget "MoneyTrackTests" */ = {
 			isa = XCConfigurationList;
@@ -497,6 +502,7 @@
 				0ADE19F11C31D4A700E95627 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0ADE19F21C31D4A700E95627 /* Build configuration list for PBXNativeTarget "MoneyTrackUITests" */ = {
 			isa = XCConfigurationList;
@@ -505,6 +511,7 @@
 				0ADE19F41C31D4A700E95627 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
